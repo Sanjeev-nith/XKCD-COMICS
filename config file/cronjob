@@ -1,0 +1,1 @@
+curl -d "pass=12345" -X POST http://localhost/PHP-SANJEEV-NITH/send_comic.php
